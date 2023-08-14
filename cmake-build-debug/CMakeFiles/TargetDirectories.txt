@@ -1,0 +1,3 @@
+C:/Users/xande/CLionProjects/art-analyzer/cmake-build-debug/CMakeFiles/art_analyzer.dir
+C:/Users/xande/CLionProjects/art-analyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xande/CLionProjects/art-analyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
